@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "customer": "Carlos Perez",
+    "console": "PlayStation 5",
+    "game": "EA Sports FC 24",
+    "date": "2026-11-22",
+    "time": "16:00",
+    "hours": 2,
+    "basePrice": 20000,
+    "isPriority": true,
+    "surchargeRate": 2,
+    "totalPrice": 20400
+  },
+  {
+    "id": 2,
+    "customer": "Mariana Gomez",
+    "console": "Nintendo Switch",
+    "game": "Super Smash Bros. Ultimate",
+    "date": "2026-11-22",
+    "time": "18:00",
+    "hours": 1,
+    "basePrice": 12000,
+    "isPriority": false,
+    "surchargeRate": 0,
+    "totalPrice": 12000
+  }
+]

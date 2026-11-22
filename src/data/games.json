@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "EA Sports FC 24",
+    "genre": "Deportes",
+    "platform": "PlayStation 5",
+    "maxPlayers": 4,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Halo Infinite",
+    "genre": "Shooter / Accion",
+    "platform": "Xbox Series X",
+    "maxPlayers": 4,
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Super Smash Bros. Ultimate",
+    "genre": "Lucha",
+    "platform": "Nintendo Switch",
+    "maxPlayers": 8,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Marvel's Spider-Man 2",
+    "genre": "Aventura / Accion",
+    "platform": "PlayStation 5",
+    "maxPlayers": 1,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Forza Horizon 5",
+    "genre": "Carreras",
+    "platform": "Xbox Series X",
+    "maxPlayers": 2,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "Mario Kart 8 Deluxe",
+    "genre": "Carreras",
+    "platform": "Nintendo Switch",
+    "maxPlayers": 4,
+    "available": true
+  },
+  {
+    "id": 7,
+    "title": "Metroid Prime 4: Beyond",
+    "genre": "Aventura / Accion",
+    "platform": "Nintendo Switch 2",
+    "maxPlayers": 1,
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "Mario Kart World Tour",
+    "genre": "Carreras",
+    "platform": "Nintendo Switch 2",
+    "maxPlayers": 4,
+    "available": true
+  },
+  {
+    "id": 9,
+    "title": "The Legend of Zelda: Tears of the Kingdom Nintendo Switch 2 Edition",
+    "genre": "Aventura / Rol",
+    "platform": "Nintendo Switch 2",
+    "maxPlayers": 1,
+    "available": true
+  }
+]
