@@ -72,12 +72,6 @@ player-core/
 └── README.md                # Documentación del proyecto
 ```
 
-### Responsabilidad de cada capa (para la Sustentación):
-1. **`index.js`**: Únicamente configura la instancia de Express, monta el middleware `express.json()`, conecta las rutas raíz (`/api/turnos`, `/api/juegos`) y levanta la escucha en el puerto.
-2. **`routes/`**: Expone las rutas de la API y delega la ejecución de cada verbo HTTP al método correspondiente del controlador sin procesar lógica ni datos.
-3. **`controllers/`**: Extrae parámetros de `req.body`, `req.params` y `req.query`, valida tipos de datos y presencia de campos obligatorios retornando códigos **400** o **404** en caso de fallo, y devuelve las respuestas exitosas con códigos **200** o **201**.
-4. **`services/`**: Resuelve las reglas del negocio, ejecuta la fórmula matemática del parámetro $N$ y gestiona las operaciones de lectura y escritura en los archivos `.json`.
-
 ---
 
 ## 5. Endpoints de la API
@@ -197,7 +191,7 @@ player-core/
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Chris-dev-2099/player-core.git
    cd player-core
    ```
 
